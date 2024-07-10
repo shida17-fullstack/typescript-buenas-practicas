@@ -24,7 +24,7 @@ El archivo data_types_original.ts es el archivo original del código con ejemplo
 
 - [data_types_original.ts](./src/original/data_types_original.ts): Archivo original de buenas prácticas aplicadas en el uso de tipos de datos en TypeScript. La cual corresponde a la: 
 
-  - [Rama main](https://github.com/shida17-fullstack/typescript-buenas-practicas.git)
+  - [Rama master](https://github.com/shida17-fullstack/typescript-buenas-practicas.git)
 
 - La actualización de este archivo con comentarios mejorados y modificaciones adicionales se puede encontrar en la rama updated:
 
