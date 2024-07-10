@@ -1,0 +1,23 @@
+{
+  "name": "ts_data_types",
+  "version": "1.0.0",
+  "description": "Documentación, conceptos y ejemplos en codigo de Buenas Prácticas en typescript.",
+  "main": "index.js",
+  "scripts": {
+      "dev:updated": "nodemon --exec ts-node ./src/updated/index.ts",
+      "start:updated": "tsc && node dist/updated/index.js"
+  },
+  "keywords": [
+    "TypeScript",
+    "Node.js",
+    "Buenas Prácticas",
+    "documentación"
+  ],
+  "author": "shida17-fullstack",
+  "license": "LICENSE.md",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
